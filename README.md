@@ -3,8 +3,6 @@
 - 🎓 Studying Computer Science in Germany
 - 🤓 Interessted in Machine Learning
 
-### 💻 Tech Stack:
-
 #### Programming Languages
 ![Java](https://img.shields.io/badge/Java-%23ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/Javascript-%23323330?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
@@ -27,6 +25,11 @@
 ![LaTeX](https://img.shields.io/badge/LaTeX-%23008080?style=flat-square&logo=latex&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-%231C89BB?style=flat-square&logo=linux&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300000f?style=flat-square&logoColor=white)
+
+### Projects
+
+* [Generating and Manipulating Images with GANs](https://github.com/jonathan-schilling/landscapeImageGeneration)
+* [Object Detection in Videos using YOLOv5](https://github.com/jonathan-schilling/objectDetectionVideo)
 
 <!--
 **jonathan-schilling/jonathan-schilling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
