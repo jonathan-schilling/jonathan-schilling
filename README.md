@@ -28,7 +28,7 @@
 
 ### Projects
 
-* [Generating and Manipulating Images with GANs](https://github.com/jonathan-schilling/landscapeImageGeneration)
+* [Generating and Manipulating Images with GANs](https://github.com/jonathan-schilling/imageGeneration)
 * [Object Detection in Videos using YOLOv5](https://github.com/jonathan-schilling/objectDetectionVideo)
 
 <!--
