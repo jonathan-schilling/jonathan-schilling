@@ -24,6 +24,7 @@
 ![Gradle](https://img.shields.io/badge/Gradle-%2302303A?style=flat-square&logo=Gradle&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-%23008080?style=flat-square&logo=latex&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-%231C89BB?style=flat-square&logo=linux&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-%23D42029?style=flat-square&logo=apache&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300000f?style=flat-square&logoColor=white)
 
 ### Projects
