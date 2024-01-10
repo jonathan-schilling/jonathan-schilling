@@ -31,6 +31,10 @@
 * [Generating and Manipulating Images with GANs](https://github.com/jonathan-schilling/imageGeneration)
 * [Object Detection in Videos using YOLOv5](https://github.com/jonathan-schilling/objectDetectionVideo)
 
+#### Open Source Contribution
+
+* [Palm Rejection Feature for BigBlueButton](https://github.com/bigbluebutton/bigbluebutton/pull/11224)
+
 <!--
 **jonathan-schilling/jonathan-schilling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
